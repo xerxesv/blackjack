@@ -1,0 +1,46 @@
+.container {
+  top: 50px;
+  left: 50px;
+  position: absolute;
+}
+
+.card {
+  float: left;
+  border: solid 1px black;
+  width: 100px;
+  border-radius: 5px;
+  height: 140px;
+  margin-right: 20px;
+  background-size: contain;
+}
+
+.covered {
+  background-image: url("../img/card-back.png");
+  font-size: 0px;
+  background-size: contain;
+}
+
+.hand {
+  overflow: auto;
+}
+
+body {
+  background-image: url("../img/table.jpg");
+  background-size: cover;
+}
+
+.history {
+  font-size: 8px;
+}
+
+.history .card {
+  width: 50px;
+  height: 70px;
+  margin-right: 10px;
+}
+
+
+.chips {
+  max-width: 50px;
+  max-height: 50px;
+}
