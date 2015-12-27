@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "HandHistoryEntry.js",
+  "sourceRoot": "..\\..\\..",
+  "sources": [
+    "src\\models\\HandHistoryEntry.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA;AAAA,MAAA;;;EAAM,MAAM,CAAC;;;;;;;+BACX,UAAA,GAAY,SAAC,KAAD;MACV,IAAC,CAAA,GAAD,CAAK,YAAL,EAAmB,KAAM,CAAA,YAAA,CAAzB;aACA,IAAC,CAAA,GAAD,CAAK,YAAL,EAAmB,KAAM,CAAA,YAAA,CAAzB;IAFU;;;;KADwB,QAAQ,CAAC;AAA/C"
+}

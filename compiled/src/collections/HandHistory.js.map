@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "HandHistory.js",
+  "sourceRoot": "..\\..\\..",
+  "sources": [
+    "src\\collections\\HandHistory.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA;AAAA,MAAA;;;EAAM,MAAM,CAAC;;;;;;;0BACX,KAAA,GAAO;;;;KADwB,QAAQ,CAAC;AAA1C"
+}
